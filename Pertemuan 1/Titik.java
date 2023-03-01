@@ -1,8 +1,8 @@
 /**
- * File		: MOperasiTitik.java	01/03/23
+ * File		: Titik.java	01/03/23
  * Penulis		: Hikmal Arkan Nur Zaidan
  * Deskripsi	: kelas yang berisi program utama yang memanfaatkan 
- *			   kelas MOperasiTitik
+ *			   kelas Titik
  * 
  */ 
  
